@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "com.jabukaprog.family.data.protodata";
+option java_multiple_files = true;
+
+message FavoritePicture {
+  int32 index = 1;
+}
+
+message AllFavoritePicture {
+  repeated FavoritePicture favoritePicture = 1;
+}

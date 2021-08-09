@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "603409125813",
+    "project_id": "family-26b07",
+    "storage_bucket": "family-26b07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603409125813:android:39cf30a562d48fdadfc9fc",
+        "android_client_info": {
+          "package_name": "com.jabukaprog.family"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603409125813-rmcciduiau2hf42ab3i9i5jbim92tup0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPZ3Dt65wC2nm1jNb8sMzUvaSm-xmKVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603409125813-rmcciduiau2hf42ab3i9i5jbim92tup0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603409125813:android:0dc38432d1833451dfc9fc",
+        "android_client_info": {
+          "package_name": "com.steleot.jetpackcompose.playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603409125813-rmcciduiau2hf42ab3i9i5jbim92tup0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPZ3Dt65wC2nm1jNb8sMzUvaSm-xmKVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603409125813-rmcciduiau2hf42ab3i9i5jbim92tup0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

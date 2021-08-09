@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/permissionFragment">
+
+    <fragment
+        android:id="@+id/permissionFragment"
+        android:name="com.jabukaprog.family.ui.PermissionCheckFragment"
+        android:label="PermissionFragment" >
+        <action
+            android:id="@+id/action_permissionFragment_to_baseFragment"
+            app:destination="@id/baseFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/baseFragment"
+        android:name="com.jabukaprog.family.ui.BaseFragment"
+        android:label="BaseFragment"/>
+
+</navigation>
